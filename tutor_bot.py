@@ -5,10 +5,8 @@ import requests
 from groq import Groq
 from dotenv import load_dotenv
 
-# Cargamos las variables ocultas
 load_dotenv()
 
-# Las sacamos del entorno seguro
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 

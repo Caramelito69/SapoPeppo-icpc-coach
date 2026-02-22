@@ -20,5 +20,7 @@ High-performance competitive programming training often leads to silent frustrat
 - **Contextual Memory:** Maintains a short-term conversation history per user for fluid, multi-turn technical follow-ups.
 - **Message Chunking:** Automatically handles Discord's 2000-character limit for long technical explanations.
 
-https://github.com/user-attachments/assets/7113934a-f02b-4642-8d0d-db9a6e3c2c87
+
+https://github.com/user-attachments/assets/b37b0fe0-72da-4c67-9567-8d19d5b8504b
+
 
